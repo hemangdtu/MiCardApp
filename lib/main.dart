@@ -51,7 +51,7 @@ class MiCard extends StatelessWidget {
                     color: Colors.teal,
                   ),
                   title: Text(
-                    '+XX - XXXXX XXXXX',
+                    '+91 - 12345 67890',
                     style: TextStyle(
                       color: Colors.teal.shade900,
                       fontFamily: 'Source Sans Pro',
@@ -68,7 +68,7 @@ class MiCard extends StatelessWidget {
                     color: Colors.teal,
                   ),
                   title: Text(
-                    'hemang@email.com',
+                    'hemang@gmail.com',
                     style: TextStyle(
                         fontSize: 20.0,
                         color: Colors.teal.shade900,
